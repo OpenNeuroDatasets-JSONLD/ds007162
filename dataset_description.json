@@ -1,5 +1,5 @@
 {
-    "Name": "[Unspecified]",
+    "Name": "Adaptive recruitment of cortex-wide recurrence for visual object recognition (EEG)",
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
     "Authors": [
@@ -12,5 +12,6 @@
             "Version": "0.17.0",
             "CodeURL": "https://mne.tools/mne-bids/"
         }
-    ]
+    ],
+    "License": "CC0"
 }
